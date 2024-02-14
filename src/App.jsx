@@ -4,7 +4,6 @@ import Nav from '../src/assets/Nav';
 import Footer from '../src/assets/Footer';
 import { Outlet } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './Apps.css';
 
 const App = () => (
   <div>
