@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from './assets/resume.pdf';
+import resume from './resume.pdf';
 
 export default function Resume() {
     const resumeFileName = 'Jesus_Uriostegui';
