@@ -4,8 +4,8 @@ import App from './App.jsx';
 import About from './components/pages/About.jsx';
 import Portfolio from './components/pages/Portfolio.jsx';
 import Contact from './components/pages/Contact.jsx';
-import Resume from './components/pages/Resume.jsx';
-import Project from './assets/Project.jsx';
+import Resume from './assets/Resume.jsx';
+import Project from './components/Project.jsx';
 import './index.css';
 
 const router = createBrowserRouter([

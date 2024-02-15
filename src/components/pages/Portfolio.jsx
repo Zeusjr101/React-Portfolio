@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Project from "../../assets/Project";
+import Project from "../Project";
 import Row from 'react-bootstrap/Row'
 import 'animate.css/animate.min.css';
 

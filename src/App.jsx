@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../src/assets/Header';
-import Nav from '../src/assets/Nav';
-import Footer from '../src/assets/Footer';
+import Header from './components/Header';
+import Nav from './components/Nav';
+import Footer from './components/Footer';
 import { Outlet } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
